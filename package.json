@@ -13,5 +13,5 @@
     "sqlite3": "^5.0.0"
   },
   "author": "VotTak",
-  "license": "ISC"
+  "license": "Apache 2.0"
 }
