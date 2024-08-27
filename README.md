@@ -57,4 +57,4 @@ Rcon бот на основе NodeJS для управления ролями и
 
 ## Автор
 
-- VotTak - [Ваша страница](https://github.com/VotTak3092)
+- VotTak - [Я](https://github.com/VotTak3092)
