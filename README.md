@@ -10,7 +10,7 @@ Rcon бот на основе NodeJS для управления ролями и
 
 1. Скопируйте репозиторий:
    
-    git clone https://github.com/VotTak3092/Test/tree/main
+    git clone https://github.com/VotTak3092/Rcon-BotJS
     
 2. Создайте папку для проекта
    
