@@ -1,0 +1,17 @@
+{
+  "name": "Rcon-BotJS",
+  "version": "1.0.4",
+  "description": "Rcon бот на основе NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "vk-io": "^4.1.0",
+    "rcon-client": "^4.0.0",
+    "sqlite3": "^5.0.0"
+  },
+  "author": "VotTak",
+  "license": "ISC"
+}
